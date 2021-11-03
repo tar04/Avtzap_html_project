@@ -3,282 +3,354 @@
         font-size: 13px;
         line-height: 15px;
     }
+
     .nav-pills-right {
         display: none;
     }
+
     .nav-pills-else {
         display: block;
     }
+
     .header__center-worktime {
         flex-direction: column;
     }
+
     .header__center-contacts {
         flex-direction: column-reverse;
         align-items: flex-end;
     }
+
     .worktime__time p {
         font-size: 12px;
         line-height: 16px;
     }
+
     .phone h2 {
         font-size: 16px;
         line-height: 19px;
     }
+
     .whatsapp {
         width: 182px;
         height: 19px;
     }
+
     .header__center-items {
         justify-content: space-between;
     }
+
     .header__bot-menu p {
         display: none;
     }
+
     .user__panel-item {
         flex-direction: column;
         row-gap: 5px;
         text-align: center;
         padding: 0 20px;
     }
+
     .user__panel {
         margin-left: 0;
         height: 65px;
         align-items: flex-start;
     }
+
     .carousel__block-left h2 {
         font-size: 26px;
         line-height: 30px;
     }
+
     .undercut {
         font-size: 16px;
         line-height: 19px;
     }
+
     .carousel__block-price {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
+
     .price2 {
         font-size: 18px;
         line-height: 21px;
 
     }
+
     .price1 {
         font-size: 30px;
         line-height: 35px;
     }
+
     .carousel__block .offer_picture {
         width: 222px;
         height: 180px;
     }
+
     .carousel__block {
         padding: 70px 30px;
     }
+
     .offer__right-action {
         font-size: 12px;
         line-height: 14px;
     }
+
     .img-text img {
         width: 70px;
         height: 65px;
     }
+
     .img-text h2 {
         font-size: 13px;
         line-height: 20px;
     }
+
     .img-text h2 p {
         font-size: 10px;
         line-height: 12px;
     }
+
     .silver-price {
         font-size: 14px;
         line-height: 16px;
     }
+
     .yellow-price {
         font-size: 18px;
         line-height: 21px;
     }
+
     .offer__right-price {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
+
     .offer__right-item {
         justify-content: space-between;
     }
+
     .left, .right {
         display: none;
     }
+
     .offer__bot-item-left h2 {
         font-size: 18px;
         line-height: 21px;
     }
+
     .offer__bot-item-left p {
         font-size: 12px;
         line-height: 20px;
     }
+
     .offer__bot-item-left button {
         font-size: 13px;
         line-height: 15px;
         padding: 4px 12px;
     }
+
     .offer__bot-item-right img {
         width: 100px;
         height: 125px;
     }
+
     .offer__bot-item {
         min-width: 292px;
         height: 149px;
         padding: 20px 0 20px 20px;
     }
+
     .offer__bot {
         column-gap: 10px;
         margin-bottom: 5%;
         overflow-x: scroll;
     }
+
     .selection__item {
         font-size: 16px;
         line-height: 19px;
         padding: 15px 30px;
     }
+
     .selection {
         overflow-x: scroll;
     }
-    .main{
+
+    .main {
         column-gap: 15px;
     }
-    .main__item{
+
+    .main__item {
         width: 31%;
     }
-    .main__item-picture img{
+
+    .main__item-picture img {
         width: 248px;
         height: 211px;
     }
-    .stars{
+
+    .stars {
         font-size: 13px;
         line-height: 15px;
     }
-    .review{
+
+    .review {
         font-size: 13px;
         line-height: 15px;
     }
-    .main__item h2{
+
+    .main__item h2 {
         font-size: 15px;
         line-height: 18px;
     }
-    .price__left{
+
+    .price__left {
         font-size: 13px;
         line-height: 15px;
     }
-    .price__right a{
+
+    .price__right a {
         font-size: 13px;
         line-height: 15px;
     }
-    .cart__button{
+
+    .cart__button {
         font-size: 14px;
         line-height: 16px;
     }
-    .stats{
+
+    .stats {
         display: none;
     }
-    .buttons{
+
+    .buttons {
         column-gap: 20%;
     }
-    .showmore button{
+
+    .showmore button {
         font-size: 14px;
         line-height: 16px;
         padding: 2% 4%;
     }
-    .news__header{
+
+    .news__header {
         font-size: 18px;
         line-height: 21px;
     }
-    .news{
+
+    .news {
         overflow-x: scroll;
         column-gap: 2%;
     }
-    .header__wrapper{
+
+    .header__wrapper {
         width: 89px;
         height: 20px;
     }
-    .news__item-header{
+
+    .news__item-header {
         font-size: 14px;
         line-height: 16px;
     }
-    .news__item a{
+
+    .news__item a {
         font-size: 14px;
         line-height: 16px;
     }
-    .news__item p, .news__item ul li{
+
+    .news__item p, .news__item ul li {
         font-size: 14px;
         line-height: 22px;
     }
-    .news__item{
+
+    .news__item {
         min-width: 230px;
     }
-    .footer{
+
+    .footer {
         flex-direction: column;
         row-gap: 40px;
     }
-    .form__mail{
+
+    .form__mail {
         flex-direction: row;
     }
-    .socials{
+
+    .socials {
         justify-content: flex-start;
     }
-    .footer__left-item h2{
+
+    .footer__left-item h2 {
         font-size: 16px;
         line-height: 19px;
     }
-    .footer__left-item ul li{
+
+    .footer__left-item ul li {
         font-size: 13px;
         line-height: 15px;
     }
-    .contacts__adress-item h2{
+
+    .contacts__adress-item h2 {
         font-size: 16px;
         line-height: 19px;
     }
-    .contacts__adress-item p{
+
+    .contacts__adress-item p {
         font-size: 14px;
         line-height: 16px;
         margin-bottom: 4px;
     }
-    .form h3, .form p, .mail h3{
+
+    .form h3, .form p, .mail h3 {
         font-size: 16px;
         line-height: 19px;
     }
-    .form{
+
+    .form {
         flex-direction: column;
     }
-    .footer__button{
+
+    .footer__button {
         width: 455px;
     }
-    .footer__button input{
+
+    .footer__button input {
         font-size: 14px;
         line-height: 16px;
     }
-    .footer__button button{
+
+    .footer__button button {
         font-size: 14px;
         line-height: 16px;
         padding: 12px 36px;
     }
-    .sign{
+
+    .sign {
         font-size: 14px;
         line-height: 16px;
     }
-    .sign__wrapper{
+
+    .sign__wrapper {
         background: #0E1E2F;
         border-top: 1px solid #303a48;
     }
-    .footer__right{
+
+    .footer__right {
         width: 100%;
     }
-    .footer__left{
+
+    .footer__left {
         width: 100%;
         column-gap: 80px;
     }
-    .contacts__adress{
+
+    .contacts__adress {
         margin-bottom: 39px;
     }
-    .form__mail{
+
+    .form__mail {
         column-gap: 60px;
     }
 }
@@ -287,346 +359,434 @@
     .header__top-navigation {
         justify-content: flex-start;
     }
+
     .nav-pills .nav-link img {
         display: none;
     }
+
     .nav-pills .dropdown {
         display: none;
     }
+
     .header__top-navigation .nav-link {
         font-size: 12px;
         line-height: 14px;
     }
+
     .nav-pills-right {
         display: none;
     }
+
     .nav-pills-else {
         display: block;
     }
+
     .header__center-worktime {
         display: none;
     }
+
     .header__center-contacts {
         flex-direction: column-reverse;
         align-items: flex-end;
     }
+
     .phone h2 {
         font-size: 16px;
         line-height: 19px;
     }
+
     .whatsapp {
         width: 182px;
         height: 19px;
     }
+
     .header__center-items {
         justify-content: space-between;
     }
+
     .header__bot-items {
         column-gap: 0;
     }
+
     .header__bot-menu p {
         display: none;
     }
+
     .header__bot-menu {
         margin-right: 20px;
     }
+
     .user__panel-item {
         display: none;
     }
+
     .user__panel {
         margin-left: 0;
         height: 65px;
         align-items: flex-start;
     }
+
     .input-group-text p {
         display: none;
     }
+
     img.input-group-text {
         display: block;
         border: none;
     }
+
     .offer {
         flex-direction: column;
         row-gap: 10px;
     }
+
     .carousel {
         width: 100%;
     }
+
     .carousel__block-left h2 {
         font-size: 16px;
         line-height: 19px;
     }
+
     .undercut {
         font-size: 10px;
         line-height: 12px;
     }
+
     .offer__right {
         flex-direction: row;
         column-gap: 10px;
         width: 100%;
         overflow-x: scroll;
     }
+
     .carousel__block-price {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
+
     .price2 {
         font-size: 14px;
         line-height: 16px;
     }
+
     .price1 {
         font-size: 20px;
         line-height: 23px;
     }
+
     .carousel__block .offer_picture {
         width: 147px;
         height: 125px;
     }
+
     .carousel__block {
         padding: 70px 30px;
     }
+
     .offer__right-action {
         font-size: 12px;
         line-height: 14px;
     }
+
     .img-text img {
         width: 58px;
         height: 54px;
     }
+
     .img-text h2 {
         font-size: 12px;
         line-height: 18px;
     }
+
     .img-text h2 p {
         font-size: 10px;
         line-height: 12px;
         margin-bottom: 0;
     }
+
     .silver-price {
         font-size: 12px;
         line-height: 14px;
     }
+
     .yellow-price {
         font-size: 14px;
         line-height: 16px;
         margin-bottom: 6px;
     }
+
     .price__wrapper {
         margin-left: 70px;
     }
+
     .offer__right-item {
         justify-content: space-between;
         min-width: 250px;
         max-height: 155px;
         position: relative;
     }
+
     .carousel__block-left button {
         padding: 10px 24px;
         font-size: 12px;
         line-height: 14px;
     }
+
     .left, .right {
         display: none;
     }
+
     .offer__bot-item-left h2 {
         font-size: 16px;
         line-height: 19px;
     }
+
     .offer__bot-item-left p {
         font-size: 10px;
         line-height: 14px;
     }
+
     .offer__bot-item-left button {
         font-size: 12px;
         line-height: 14px;
         padding: 4px 12px;
     }
+
     .offer__bot-item-right img {
         width: 74px;
         height: 97px;
     }
+
     .offer__bot-item {
         min-width: 250px;
         height: 126px;
         padding: 15px 0 15px 15px;
     }
+
     .offer__bot {
         column-gap: 10px;
         margin-bottom: 5%;
         overflow-x: scroll;
     }
+
     .selection__item {
         font-size: 14px;
         line-height: 16px;
         padding: 10px 16px;
         min-width: 164px;
     }
+
     .selection {
         overflow-x: scroll;
     }
-    .main{
+
+    .main {
         column-gap: 12px;
     }
-    .main__item{
+
+    .main__item {
         width: 48%;
     }
-    .main__item-picture img{
+
+    .main__item-picture img {
         width: 150px;
         height: 125px;
     }
-    .stars{
+
+    .stars {
         font-size: 10px;
         line-height: 12px;
     }
-    .review{
+
+    .review {
         font-size: 10px;
         line-height: 12px;
     }
-    .main__item h2{
+
+    .main__item h2 {
         font-size: 12px;
         line-height: 17px;
     }
-    .price__left{
+
+    .price__left {
         font-size: 12px;
         line-height: 14px;
     }
-    .price__right a{
+
+    .price__right a {
         font-size: 12px;
         line-height: 14px;
     }
-    .cart__button{
+
+    .cart__button {
         font-size: 12px;
         line-height: 14px;
     }
-    .stats{
+
+    .stats {
         display: none;
     }
-    .buttons{
+
+    .buttons {
         column-gap: 10%;
     }
-    .showmore button{
+
+    .showmore button {
         font-size: 12px;
         line-height: 14px;
         padding: 4% 8%;
     }
-    .news__header{
+
+    .news__header {
         font-size: 16px;
         line-height: 19px;
     }
-    .header__hr{
+
+    .header__hr {
         display: none;
     }
-    .dots_and_dates img{
+
+    .dots_and_dates img {
         display: none;
     }
-    .news{
+
+    .news {
         flex-direction: column;
         row-gap: 20px;
     }
-    .header__wrapper{
+
+    .header__wrapper {
         width: 58px;
         height: 16px;
     }
-    .news__item-header{
+
+    .news__item-header {
         font-size: 10px;
         line-height: 12px;
     }
-    .news__item a{
+
+    .news__item a {
         font-size: 14px;
         line-height: 18px;
     }
-    .news__item p{
+
+    .news__item p {
         font-size: 12px;
         line-height: 18px;
     }
-    .news__item{
+
+    .news__item {
         width: 95%;
     }
-    .news__item p, .news__item ul li{
+
+    .news__item p, .news__item ul li {
         font-size: 14px;
         line-height: 22px;
     }
-    .dots_and_dates{
+
+    .dots_and_dates {
         align-items: flex-start;
     }
-    .news__item p{
+
+    .news__item p {
         margin-top: 3%;
     }
-    .footer{
+
+    .footer {
         flex-direction: column;
         row-gap: 25px;
         padding-top: 25px;
         padding-bottom: 24px;
     }
-    .form__mail{
+
+    .form__mail {
         flex-direction: column;
     }
-    .socials{
+
+    .socials {
         justify-content: flex-start;
         column-gap: 20%;
     }
-    .footer__left-item h2{
+
+    .footer__left-item h2 {
         font-size: 14px;
         line-height: 16px;
     }
-    .footer__left-item ul li{
+
+    .footer__left-item ul li {
         font-size: 12px;
         line-height: 14px;
     }
-    .contacts__adress-item h2{
+
+    .contacts__adress-item h2 {
         font-size: 14px;
         line-height: 16px;
     }
-    .contacts__adress-item p{
+
+    .contacts__adress-item p {
         font-size: 12px;
         line-height: 14px;
         margin-bottom: 4px;
     }
-    .form h3, .mail h3{
+
+    .form h3, .mail h3 {
         font-size: 14px;
         line-height: 16px;
     }
-    .form p{
+
+    .form p {
         font-size: 13px;
         line-height: 15px;
     }
-    .form{
+
+    .form {
         flex-direction: column;
     }
-    .footer__button{
+
+    .footer__button {
         width: 290px;
     }
-    .footer__button input{
+
+    .footer__button input {
         font-size: 12px;
         line-height: 14px;
     }
-    .footer__button button{
+
+    .footer__button button {
         font-size: 12px;
         line-height: 14px;
         padding: 10px 15px;
     }
-    .sign{
+
+    .sign {
         font-size: 12px;
         line-height: 14px;
     }
-    .sign__wrapper{
+
+    .sign__wrapper {
         background: #0E1E2F;
         border-top: 1px solid #303a48;
     }
-    .footer__right{
+
+    .footer__right {
         width: 100%;
     }
-    .footer__left{
+
+    .footer__left {
         width: 65%;
         flex-direction: column;
         row-gap: 25px;
     }
-    .contacts__adress{
+
+    .contacts__adress {
         flex-direction: column;
         row-gap: 25px;
         margin-bottom: 25px;
     }
-    .form__mail{
+
+    .form__mail {
         column-gap: 60px;
     }
 }
@@ -636,50 +796,62 @@
         width: 37px;
         height: 40px;
     }
+
     .header__center-logo-text h1 {
         font-size: 14px;
         line-height: 16px;
     }
+
     .header__center-logo-text {
         font-size: 7px;
         line-height: 8px;
     }
+
     .phone h2 {
         margin-bottom: 0;
     }
+
     .carousel__block-left button {
         padding: 6px 12px;
         font-size: 12px;
         line-height: 14px;
     }
+
     .carousel__block .offer_picture {
         width: 131px;
         height: 111px;
     }
+
     .carousel__block {
         padding: 50px 30px;
     }
+
     .selection__item {
         font-size: 12px;
         line-height: 14px;
         padding: 10px 16px;
     }
-    .main__item{
+
+    .main__item {
         width: 46%;
     }
-    .cart__button{
+
+    .cart__button {
         font-size: 12px;
         line-height: 14px;
         padding: 5% 6%;
     }
-    .stats{
+
+    .stats {
         display: none;
     }
-    .footer__left{
+
+    .footer__left {
         width: 80%;
 
     }
-    .socials{
+
+    .socials {
         column-gap: 25%;
     }
 }
