@@ -763,3 +763,7 @@ img.input-group-text {
     display: flex;
     flex-direction: column;
 }
+
+.phone__menu {
+    display: none;
+}

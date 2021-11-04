@@ -763,6 +763,7 @@
     .sign {
         font-size: 12px;
         line-height: 14px;
+        margin-bottom: 60px;
     }
 
     .sign__wrapper {
@@ -788,6 +789,36 @@
 
     .form__mail {
         column-gap: 60px;
+    }
+
+    .phone__menu {
+        display: flex;
+        height: 60px;
+        align-items: center;
+        justify-content: space-evenly;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: #FFFFFF;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        z-index: 999;
+    }
+
+    .phone__menu-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .phone__menu-item p {
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #0F2438;
+        margin-bottom: 0;
     }
 }
 
@@ -848,7 +879,6 @@
 
     .footer__left {
         width: 80%;
-
     }
 
     .socials {
